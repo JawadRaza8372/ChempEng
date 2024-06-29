@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264152321500",
+    "project_id": "champeng-e2b18",
+    "storage_bucket": "champeng-e2b18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264152321500:android:c90ed762c864319dc8d319",
+        "android_client_info": {
+          "package_name": "com.champeng"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTActLSyTkrKlkj3D-E_zOh_GM51JiVlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
